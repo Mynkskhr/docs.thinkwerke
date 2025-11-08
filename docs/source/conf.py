@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Thinkwerke'
+copyright = '2025, Owned by Thinkwerke'
+author = 'Mayank Sekhar'
 
 release = '0.1'
 version = '0.1.0'
