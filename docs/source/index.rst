@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   NIS2 Directive
-   Usage
+   usage
+   api
