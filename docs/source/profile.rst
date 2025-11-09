@@ -159,3 +159,5 @@ CERTIFICATIONS
 - **CompTIA SecurityX (Gold Level Security Architect – expected Nov 2025)**  
 - **AWS Certified Security – Specialty** (expired, but validated skills):  
   https://www.credly.com/badges/b9c37026-9df0-4257-920d-aba226f1f6b0?source=linked_in_profile
+
+- https://github.com/Mynkskhr/Thinkwerke/blob/main/Profile.md
