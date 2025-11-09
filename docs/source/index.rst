@@ -1,10 +1,7 @@
 Thinkwerke on Read the Docs.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+ThinkWerke is where strategy meets security. We help organisations build compliant, resilient, and scalable cloud environments through ISO 27001 implementation, NIS2/DORA compliance programs, AWS solutions and security, and DevSecOps excellence. Our approach enables businesses to reduce risk, accelerate delivery, and earn lasting customer trust.
 
 Contents
 --------
@@ -13,5 +10,6 @@ Contents
    :maxdepth: 2
    :caption: Contents
 
-   nis2-directive
-   profile
+profile   
+nis2-directive
+   
