@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   NIS2 Directive
+   EU AI ACT
