@@ -109,7 +109,7 @@ Hardened CI/CD pipelines, POC-based delivery, SAST/DAST automation, and evidence
 **Security Governance & Operating Model (GRC)**  
 Policies, KPIs, risk registers, and board-level dashboards to ensure governance maturity.
 
-_End-to-end execution: Architecture → Governance → Controls → Evidence → Audit → Handover_
+**End-to-end execution:** Architecture → Governance → Controls → Evidence → Audit → Handover
 
 ---
 
