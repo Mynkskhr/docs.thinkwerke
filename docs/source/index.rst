@@ -16,7 +16,5 @@ Contents
    :maxdepth: 2
    :caption: Contents
 
-   usage
-   api
    nis2-directive
    profile
