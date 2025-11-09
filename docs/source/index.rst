@@ -15,4 +15,4 @@ Contents
 .. toctree::
 
    NIS2 Directive
-   EU AI ACT
+   Usage
