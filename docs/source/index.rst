@@ -10,6 +10,6 @@ Contents
    :maxdepth: 2
    :caption: Contents
 
-profile   
-nis2-directive
+    profile   
+    nis2-directive
    
