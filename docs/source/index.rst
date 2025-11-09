@@ -16,3 +16,5 @@ Contents
 
    usage
    api
+   nis2-directive
+   profile
