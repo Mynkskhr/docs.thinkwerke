@@ -149,8 +149,9 @@ If you're looking to build a compliant security program, secure your AWS workloa
 
 ---
 
-CERTIFICATIONS [ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
+CERTIFICATIONS
 --------------
+[ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
 
 - **AWS Certified Solutions Architect – Professional (2025)**  
 - **CISM, ISACA (2025)**  
