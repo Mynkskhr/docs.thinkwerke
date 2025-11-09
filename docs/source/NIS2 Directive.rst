@@ -1,4 +1,4 @@
-API
+NIS2 Directive
 ===
 
 .. autosummary::
