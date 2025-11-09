@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Thinkwerke'
-copyright = '2025, Owned by Thinkwerke'
+copyright = '2025, By Thinkwerke'
 author = 'Mayank Sekhar'
 
 release = '0.1'
-version = '0.1.0'
+version = '1.0'
 
 # -- General configuration
 
