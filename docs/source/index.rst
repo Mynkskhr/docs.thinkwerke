@@ -16,4 +16,3 @@ Contents
 
    usage
    api
-   new
