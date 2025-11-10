@@ -16,7 +16,7 @@ I am a hands-on **Information Security**, **Cloud Security Architect**, and **AW
 
 I understand how to build and protect systems at the infrastructure level, but more importantly, I know how to translate technical outcomes into business value. Whether working with C-level leadership or engineering teams, I focus on closing gaps across people, process, and technology so organisations can scale securely, pass audits confidently, and deliver products faster without compromising risk posture.
 
-If your organisation needs someone who can design secure architectures, implement controls, assess infrastructure realities, and deliver measurable outcomes, I bring the ability to operate at both hands-on technical depth and board-level strategic height — aligning all stakeholders toward secure, growth-oriented results and providing accurate reports to stakeholders about blockers, whether cultural, knowledge-based, or human factors.
+If your organisation needs someone who can design secure architectures, implement controls, assess infrastructure realities, and deliver measurable outcomes, I bring the ability to operate at both hands-on technical depth and board-level strategic height. aligning all stakeholders toward secure, growth-oriented results and providing accurate reports to stakeholders about blockers, whether cultural, knowledge-based, or human factors.
 
 ---
 
@@ -156,3 +156,20 @@ CERTIFICATIONS
 - **CompTIA SecurityX (Gold Level Security Architect – expected Nov 2025)**  
 - **AWS Certified Security – Specialty** (expired, but validated skills)
   Certificates - [ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
+
+Professional Capability Development
+===================================
+
+To continuously advance the quality, scalability, and strategic impact of my engagements, 
+I am deepening my expertise through upcoming certifications in **CompTIA SecurityX Architect**, 
+**COBIT**, and **PMP**.
+
+These disciplines together strengthen my ability to design and implement 
+**enterprise-grade security architectures**, establish **governance models grounded in measurable value**, 
+and deliver **complex regulatory and transformation programs** with precision, traceability, 
+and executive alignment.
+
+This investment reflects my commitment to operate not just as a compliance or technical advisor, 
+but as an **independent architect capable of bridging business strategy, cybersecurity, and program execution** — 
+ensuring that every engagement delivers resilience, compliance, and tangible business advantage.
+
