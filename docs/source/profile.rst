@@ -48,14 +48,19 @@ Executive Value I Deliver
 ---
 
 Business Impact & Trust Signals
--------------------------------
+===============================
 
-- Reduced audit findings by **80%** and achieved first-time ISO 27001 certification in record time.  
-- Shortened compliance readiness from **9 months to 12–16 weeks** through automation.  
-- Delivered **zero nonconformities** in multi-region audit programs.  
-- Improved DevOps delivery by **30%** through secure CI/CD enablement.  
-- Enabled cross-region **DORA** and **NIS2** readiness for healthcare and fintech clients.  
-- Supported enterprises in **Aviation**, **Utilities**, **Fintech**, **SaaS**, and **Healthcare** sectors across EU and North America.
+Results that demonstrate measurable resilience, operational efficiency, and regulatory confidence:
+
+- **Audit & Certification:** Achieved ISO/IEC 27001 certification on the first audit cycle and reduced audit findings by over 80%.  
+- **Compliance Efficiency:** Accelerated regulatory readiness cycles from nine months to under sixteen weeks through targeted automation.  
+- **Assurance & Quality:** Delivered multi-region audit programs with zero major nonconformities.  
+- **Engineering Velocity:** Improved DevOps throughput by 30% by embedding security-by-design and secure-by-default principles, 
+  implementing policy-as-code, and transforming a development team into a fully functioning DevSecOps capability.
+- **Regulatory Implementation:** Led a full DORA implementation program from risk assessment to operational testing and board-level reporting.   
+- **EU Regulatory Implementation (NIS2, CRA, AI Act, Data Act):** Designed unified control and reporting models across IT and OT/SCADA environments, 
+  embedded secure-by-design and product security principles, developed AI governance and conformity assessment templates, 
+  and defined data access, interoperability, and stewardship frameworks for connected systems and analytics platforms.
 
 ---
 
