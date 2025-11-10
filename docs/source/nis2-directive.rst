@@ -4,7 +4,7 @@ NIS2 Directive
 Compliance Maturity Chain
 From NIS2 → EU AI Act → Cyber Resilience Act → ISO 27001 → Customer Trust
 
-NIS2 Directive – Core Control Requirements Checklist
+Core Control Requirements Checklist
 ====================================================
 
 Aligned with **ENISA**, **NIS2 Directive Articles 21 & 23**, and **ISO/IEC 27001 Control Mapping**
