@@ -1,7 +1,12 @@
-Thinkwerke on Read the Docs.
-===================================
+ThinkWerke
+===========
 
-ThinkWerke is where strategy meets security. We help organisations build compliant, resilient, and scalable cloud environments through ISO 27001 implementation, NIS2/DORA compliance programs, AWS solutions and security, and DevSecOps excellence. Our approach enables businesses to reduce risk, accelerate delivery, and earn lasting customer trust.
+ThinkWerke is where **strategy meets security** enabling organisations to build compliant, resilient, and scalable digital ecosystems.  
+We specialise in **ISO 27001 implementation**, **EU Compliance & Governance (NIS2, DORA, AI Act, DATA Act, CRA readiness**, **Cloud Solutions & security architecture**, and **DevSecOps transformation**.  
+
+Our approach unites governance, engineering, and automation to help businesses **reduce risk, accelerate delivery, and strengthen customer trust**.  
+By integrating security and compliance from design to operation, we ensure that resilience becomes a built-in advantage not an afterthought.
+
 
 .. toctree::
    :maxdepth: 2
