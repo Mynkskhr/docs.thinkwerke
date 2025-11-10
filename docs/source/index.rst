@@ -5,7 +5,7 @@ ThinkWerke is where **strategy meets security** combining regulatory expertise, 
 
 We bring proven capability across **ISO 27001 implementation**, **EU Compliance & Governance (NIS2, DORA, AI Act, DATA Act, CRA readiness)**, **GRC framework design**, and **DevSecOps enablement** delivering secure-by-design architectures and operational governance that withstand regulatory scrutiny and business change.
 
-Our team has hands-on experience in developing and automating **security controls, audit evidence workflows, and CI/CD pipelines**, integrating compliance directly into development and operations.  
+Our team has hands-on experience in developing and automating security controls, audit evidence workflows, and CI/CD pipelines, integrating compliance directly into development and operations.  
 From **governance and risk assessments** to **technical deployment and reporting automation**, we turn complex regulatory requirements into measurable, operational outcomes.
 
 We are prepared to demonstrate our approach and toolchain in action.  
