@@ -151,12 +151,11 @@ If you're looking to build a compliant security program, secure your AWS workloa
 
 CERTIFICATIONS
 --------------
-[ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
 
 - **AWS Certified Solutions Architect – Professional (2025)**  
 - **CISM, ISACA (2025)**  
 - **ISO 27001:2022 Lead Implementer, TÜV SÜD (2025)**  
 - **NIS2 (Scoring 91.4%) & DORA Trained Professional (EU Compliance, 2025)**  
 - **CompTIA SecurityX (Gold Level Security Architect – expected Nov 2025)**  
-- **AWS Certified Security – Specialty** (expired, but validated skills):  
-  https://www.credly.com/badges/b9c37026-9df0-4257-920d-aba226f1f6b0?source=linked_in_profile
+- **AWS Certified Security – Specialty** (expired, but validated skills)
+  Certificates - [ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
