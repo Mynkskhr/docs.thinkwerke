@@ -15,7 +15,7 @@ Mayank Sekhar
 Who I Am
 --------
 
-I am a hands-on ,**Information Security Manager**, **Cloud Security Architect**, and, **AWS Solutions Architect** who has evolved into a strategic consultant and executive advisor. With deep engineering experience and a strong GRC foundation, I bridge the gap between business objectives and technical execution, ensuring security is not just compliant but also an accelerator for product growth, customer trust, and market expansion.
+I am a hands-on **Information Security**, **Cloud Security Architect**, and **AWS Solutions Architect** who has evolved into a strategic consultant and executive advisor. With deep engineering experience and a strong GRC foundation, I bridge the gap between business objectives and technical execution, ensuring security is not just compliant but also an accelerator for product growth, customer trust, and market expansion.
 
 I understand how to build and protect systems at the infrastructure level, but more importantly, I know how to translate technical outcomes into business value. Whether working with C-level leadership or engineering teams, I focus on closing gaps across people, process, and technology so organisations can scale securely, pass audits confidently, and deliver products faster without compromising risk posture.
 
