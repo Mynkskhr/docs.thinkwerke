@@ -59,47 +59,24 @@ Business Impact & Trust Signals
 
 ---
 
-NIS2 / AI Act / Data Act / CRA Implementation Focus
----------------------------------------------------
-
-The European digital compliance landscape is evolving rapidly.  
-Through a unified framework, I help organizations such as **Diehl Metering** and similar enterprises to:
-
-- Align cybersecurity controls with **NIS2 risk management and reporting obligations**.  
-- Integrate **AI Act transparency, fairness, and data governance requirements** into analytics workflows.  
-- Operationalize **Data Act mandates** around data access, interoperability, and accountability for 
-  data-sharing ecosystems and connected products.  
-- Embed **CRA secure-by-design and lifecycle security principles** into software and connected device portfolios.  
-- Maintain continuous alignment with **ISO/IEC 27001:2022** to ensure audit-ready documentation, traceability, 
-  and sustained improvement.  
-- Build governance structures that unify **risk management, data stewardship, product assurance, and executive reporting**.  
-
-This cross-regulatory approach ensures compliance efforts are **strategic, scalable, and verifiable**, 
-reducing duplication and creating a resilient foundation for future regulatory evolution.
-
-Also, I have a framework of my own in development:  
-`CIR³ Framework <https://github.com/Mynkskhr/Thinkwerke/blob/923e7f92601346c8d8e3f781b2d5b148eeb4f44e/CIR%C2%B3%20Framework.md>`_
-
----
-
 Core Expertise
 --------------
 
-- Security Architecture & Regulatory Integration  
-- ISO/IEC 27001 Control Mapping & Implementation  
-- EU NIS2, AI Act, Data Act, and Cyber Resilience Act Readiness  
-- Governance, Risk, and Compliance (GRC) Framework Design  
-- Secure Development, DevSecOps, and Compliance Automation  
-- Program Leadership and Regulatory Stakeholder Engagement  
+I bring a blend of strategic governance, technical depth, and leadership experience that enables organizations 
+to build secure, compliant, and scalable digital environments.
 
-**Governance, Risk & Compliance:**  
-ISO 27001, GDPR, NIS2, DORA, Risk Assessments, BCP/DRP, CSIRT, Audit Readiness  
-
-**Cloud & DevSecOps:**  
-AWS Solutions & Security, Secure CI/CD, IaC Projects, Observability Plans, Zero-Trust Controls, Cloud Baselines  
-
-**Advisory & Leadership:**  
-C-level Consulting, Product Ownership Support, Technical Project Delivery, Security Roadmaps, Policy Engineering, Awareness & Enablement
+- **Security Architecture & Regulatory Integration** — designing unified control frameworks that align 
+  cybersecurity, compliance, and business objectives  
+- **ISO/IEC 27001 & EU Regulatory Alignment** — mapping and implementing controls across ISO 27001, NIS2, AI Act, 
+  Data Act, CRA, and DORA frameworks  
+- **Governance, Risk & Compliance (GRC)** — establishing enterprise policies, risk assessments, CSIRT functions, 
+  audit readiness programs, and continuity plans (BCP/DRP)  
+- **Cloud & DevSecOps Enablement** — embedding security into the development lifecycle through secure CI/CD, 
+  infrastructure-as-code (IaC), observability, and zero-trust cloud baselines  
+- **Secure-by-Design & SecOps Implementation** — ensuring every product and service incorporates 
+  continuous security validation and resilience-by-default principles  
+- **Advisory & Leadership Engagement** — providing C-level consulting, program governance, product ownership support, 
+  and organizational awareness initiatives that translate compliance into measurable business value
 
 ---
 
@@ -125,14 +102,17 @@ Policies, KPIs, risk registers, and board-level dashboards to ensure governance 
 
 ---
 
-Board-Level Metrics I ESstablish
---------------------------------
+Board-Level Metrics I Establish
+===============================
 
-- **Audit performance:** Time-to-close, evidence maturity, risk coverage  
-- **Operational resilience:** MTTD/MTTR, recovery validation, incident SLAs  
-- **Compliance coverage:** % of systems under control mapping  
-- **Identity security maturity:** Privilege reduction, SSO, Just-in-Time admin metrics  
-- **Cloud program KPIs:** Pipeline pass rates, drift detection, change audit trails  
+Focused indicators that demonstrate governance maturity, security assurance, and measurable business resilience:
+
+- **Audit Performance:** Closure rate, evidence quality, and risk coverage  
+- **Operational Resilience:** Response effectiveness, recovery confidence, and service continuity  
+- **Compliance Coverage:** % of assets aligned with ISO 27001, NIS2, AI Act, Data Act, and CRA  
+- **Identity Security:** Reduced privilege exposure and strengthened access assurance  
+- **Cloud & DevSecOps:** Secure change control, configuration integrity, and audit transparency  
+- **Secure-by-Design Integration:** Security embedded across the development lifecycle through continuous SecOps practices
 
 ---
 
