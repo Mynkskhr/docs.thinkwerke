@@ -20,7 +20,7 @@ If your organisation needs someone who can design secure architectures, implemen
 
 ---
 
-PROFILE SUMMARY
+Profile Summary
 ---------------
 
 Information Security and Cloud Consultant with **12+ years** of global experience delivering secure digital transformation, cloud governance, and regulatory compliance programs for European and global organisations.
@@ -35,7 +35,7 @@ My work integrates governance, automation, and resilience into cloud environment
 
 ---
 
-EXECUTIVE VALUE I DELIVER
+Executive Value I Deliver
 -------------------------
 
 - Align cybersecurity with business strategy, revenue protection, and product velocity.  
@@ -47,7 +47,7 @@ EXECUTIVE VALUE I DELIVER
 
 ---
 
-BUSINESS IMPACT & TRUST SIGNALS
+Business Impact & Trust Signals
 -------------------------------
 
 - Reduced audit findings by **80%** and achieved first-time ISO 27001 certification in record time.  
@@ -59,23 +59,38 @@ BUSINESS IMPACT & TRUST SIGNALS
 
 ---
 
-METHODOLOGY — MY ENGAGEMENT FRAMEWORK
--------------------------------------
+NIS2 / AI Act / Data Act / CRA Implementation Focus
+---------------------------------------------------
 
-**Assess → Harden → Automate → Assure**
+The European digital compliance landscape is evolving rapidly.  
+Through a unified framework, I help organizations such as **Diehl Metering** and similar enterprises to:
 
-- **Assess:** Risk analysis, maturity assessment, scope definition, and stakeholder mapping.  
-- **Harden:** Architecture, IAM, and DevSecOps pipeline controls; zero-trust enforcement.  
-- **Automate:** Evidence generation, monitoring, and continuous compliance.  
-- **Assure:** Internal audit preparation, table-top tests, and regulator-ready documentation.  
+- Align cybersecurity controls with **NIS2 risk management and reporting obligations**.  
+- Integrate **AI Act transparency, fairness, and data governance requirements** into analytics workflows.  
+- Operationalize **Data Act mandates** around data access, interoperability, and accountability for 
+  data-sharing ecosystems and connected products.  
+- Embed **CRA secure-by-design and lifecycle security principles** into software and connected device portfolios.  
+- Maintain continuous alignment with **ISO/IEC 27001:2022** to ensure audit-ready documentation, traceability, 
+  and sustained improvement.  
+- Build governance structures that unify **risk management, data stewardship, product assurance, and executive reporting**.  
+
+This cross-regulatory approach ensures compliance efforts are **strategic, scalable, and verifiable**, 
+reducing duplication and creating a resilient foundation for future regulatory evolution.
 
 Also, I have a framework of my own in development:  
 `CIR³ Framework <https://github.com/Mynkskhr/Thinkwerke/blob/923e7f92601346c8d8e3f781b2d5b148eeb4f44e/CIR%C2%B3%20Framework.md>`_
 
 ---
 
-CORE EXPERTISE
+Core Expertise
 --------------
+
+- Security Architecture & Regulatory Integration  
+- ISO/IEC 27001 Control Mapping & Implementation  
+- EU NIS2, AI Act, Data Act, and Cyber Resilience Act Readiness  
+- Governance, Risk, and Compliance (GRC) Framework Design  
+- Secure Development, DevSecOps, and Compliance Automation  
+- Program Leadership and Regulatory Stakeholder Engagement  
 
 **Governance, Risk & Compliance:**  
 ISO 27001, GDPR, NIS2, DORA, Risk Assessments, BCP/DRP, CSIRT, Audit Readiness  
@@ -84,11 +99,11 @@ ISO 27001, GDPR, NIS2, DORA, Risk Assessments, BCP/DRP, CSIRT, Audit Readiness
 AWS Solutions & Security, Secure CI/CD, IaC Projects, Observability Plans, Zero-Trust Controls, Cloud Baselines  
 
 **Advisory & Leadership:**  
-C-level Consulting, Product Ownership Support, Technical Project Delivery, Security Roadmaps, Policy Engineering, Awareness & Enablement  
+C-level Consulting, Product Ownership Support, Technical Project Delivery, Security Roadmaps, Policy Engineering, Awareness & Enablement
 
 ---
 
-CORE CONSULTING OFFERS
+Core Consulting Offers
 ----------------------
 
 **ISO 27001 Program (8–16 weeks)**  
@@ -110,7 +125,7 @@ Policies, KPIs, risk registers, and board-level dashboards to ensure governance 
 
 ---
 
-BOARD-LEVEL METRICS I ESTABLISH
+Board-Level Metrics I ESstablish
 -------------------------------
 
 - **Audit performance:** Time-to-close, evidence maturity, risk coverage  
@@ -121,7 +136,7 @@ BOARD-LEVEL METRICS I ESTABLISH
 
 ---
 
-RECENT CONSULTING ENGAGEMENTS
+Recent Consulting Engagements
 -----------------------------
 
 **Independent Consulting – Remote**  
@@ -135,18 +150,7 @@ Secured endorsement for DORA Implementation and Governance consultancy based on 
 
 ---
 
-CALL TO ACTION
---------------
-
-If your organisation is planning to achieve **ISO 27001 certification**, **NIS2/DORA readiness**, or **secure multi-cloud transformation**, I can help deliver these goals with confidence and measurable results.
-
-Whether you need a **CISM-certified Information Security Manager** to strengthen governance and risk management, or an **AWS Solutions Architect Professional** to secure and optimise your cloud environments, I provide both executive advisory and hands-on technical delivery.
-
-If you're looking to build a compliant security program, secure your AWS workloads, or accelerate DevSecOps and GRC maturity, let’s discuss how I can align your roadmap to business outcomes, audit readiness, and long-term resilience.
-
----
-
-CERTIFICATIONS
+Certifications
 --------------
 
 - **AWS Certified Solutions Architect – Professional (2025)**  
@@ -158,18 +162,18 @@ CERTIFICATIONS
   Certificates - [ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
 
 Professional Capability Development
-===================================
+-----------------------------------
 
-To continuously advance the quality, scalability, and strategic impact of my engagements, 
+To continuously elevate project delivery quality and strengthen architectural outcomes, 
 I am deepening my expertise through upcoming certifications in **CompTIA SecurityX Architect**, 
 **COBIT**, and **PMP**.
 
-These disciplines together strengthen my ability to design and implement 
-**enterprise-grade security architectures**, establish **governance models grounded in measurable value**, 
-and deliver **complex regulatory and transformation programs** with precision, traceability, 
-and executive alignment.
+These advanced disciplines reinforce my ability to design and implement **enterprise-grade security architectures**, 
+establish **governance frameworks grounded in measurable value**, and manage **multi-domain regulatory programs** 
+with precision, accountability, and executive alignment.
 
-This investment reflects my commitment to operate not just as a compliance or technical advisor, 
-but as an **independent architect capable of bridging business strategy, cybersecurity, and program execution** — 
-ensuring that every engagement delivers resilience, compliance, and tangible business advantage.
+This ongoing capability development reflects my commitment to operate not merely as a consultant, 
+but as an **independent architect bridging cybersecurity, business strategy, and transformation delivery**
+ensuring that every engagement delivers resilience, compliance, and measurable business impact.
+
 
