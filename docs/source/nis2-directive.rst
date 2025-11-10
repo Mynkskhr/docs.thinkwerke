@@ -4,6 +4,24 @@ NIS2 Directive
 Compliance Maturity Chain
 From NIS2 → EU AI Act → Cyber Resilience Act → ISO 27001 → Customer Trust
 
+NIS2 / AI Act / Data Act / CRA Implementation Focus
+---------------------------------------------------
+
+The European digital compliance landscape is evolving rapidly.  
+Through a unified framework, I help organizations such as **Diehl Metering** and similar enterprises to:
+
+- Align cybersecurity controls with **NIS2 risk management and reporting obligations**.  
+- Integrate **AI Act transparency, fairness, and data governance requirements** into analytics workflows.  
+- Operationalize **Data Act mandates** around data access, interoperability, and accountability for 
+  data-sharing ecosystems and connected products.  
+- Embed **CRA secure-by-design and lifecycle security principles** into software and connected device portfolios.  
+- Maintain continuous alignment with **ISO/IEC 27001:2022** to ensure audit-ready documentation, traceability, 
+  and sustained improvement.  
+- Build governance structures that unify **risk management, data stewardship, product assurance, and executive reporting**.  
+
+This cross-regulatory approach ensures compliance efforts are **strategic, scalable, and verifiable**, 
+reducing duplication and creating a resilient foundation for future regulatory evolution.
+
 Core Control Requirements Checklist
 ====================================================
 
