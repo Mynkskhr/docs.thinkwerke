@@ -1,7 +1,7 @@
 Profile
 =======
 
-MAYANK SEKHAR
+Mayank Sekhar
 =============
 
 **Information Security & Cloud Consultant**
