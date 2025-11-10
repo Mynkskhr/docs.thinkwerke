@@ -41,3 +41,5 @@ Aligned with **ENISA**, **NIS2 Directive Articles 21 & 23**, and **ISO/IEC 27001
      - Validate GDPR and cross-border data transfer compliance for EU-based processing.
      - GDPR / NIS2 interplay
      - Data transfer and legal basis reviewed
+
+
