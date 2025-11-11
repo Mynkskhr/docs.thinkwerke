@@ -20,34 +20,34 @@ In collaboration with **Security Mind**, ThinkWerke integrates advanced cloud an
 across the full development and operations lifecycle. Our joint approach combines strategy, tooling, and automation to 
 deliver continuous compliance, threat visibility, and secure-by-design environments.
 
-**Cloud-Native Application Protection Platform (CNAPP)**
-  CNAPP provides unified visibility and protection across workloads, containers, and cloud infrastructure.  
-  Through this framework, we consolidate CSPM, CWPP, and CIEM capabilities to:
+**Cloud-Native Application Protection Platform (CNAPP)**  
+CNAPP provides unified visibility and protection across workloads, containers, and cloud infrastructure.  
+Through this framework, we consolidate CSPM, CWPP, and CIEM capabilities to:
+
   - Detect and remediate misconfigurations and vulnerabilities across hybrid cloud assets  
   - Enforce least-privilege and identity-based access policies  
   - Integrate runtime security into CI/CD and infrastructure pipelines  
   - Continuously assess compliance against ISO 27001, NIS2, and CRA-aligned controls  
 
-**Cloud Security Posture Management (CSPM)**
-  CSPM ensures that cloud environments remain secure and compliant by design.  
-  Our implementation approach leverages automated policy checks, drift detection, and guardrails that:
+**Cloud Security Posture Management (CSPM)**  
+CSPM ensures that cloud environments remain secure and compliant by design.  
+Our implementation approach leverages automated policy checks, drift detection, and guardrails that:
+
   - Prevent misconfigurations across AWS, Azure, and GCP  
   - Continuously monitor compliance baselines and detect deviations  
   - Provide board-level reporting through real-time dashboards and evidence generation  
 
-**Application Security Posture Management (ASPM)**
-  ASPM extends continuous security into the application layer by integrating SAST, DAST, and dependency analysis 
-  directly into the development workflow.  
-  Together with Security Mind, we:
+**Application Security Posture Management (ASPM)**  
+ASPM extends continuous security into the application layer by integrating SAST, DAST, and dependency analysis 
+directly into the development workflow.  
+Together with Security Mind, we:
+
   - Correlate findings across code, build, and runtime stages  
   - Prioritize vulnerabilities based on exploitability and business impact  
   - Embed secure-by-default principles into DevSecOps toolchains  
-  - Provide traceable evidence for AI Act, CRA, and ISO 27001 audits  
+  - Provide traceable evidence for AI Act,
 
-By combining CNAPP, CSPM, and ASPM capabilities under a unified governance model, ThinkWerke and Security Mind 
-enable organisations to achieve **continuous assurance, compliance automation, and real-time risk reduction** across 
-their cloud and software ecosystems.
-
+Link - AI Powered ASPM - https://github.com/jitendar-singh/securitymind
 
 
 .. toctree::
