@@ -33,19 +33,57 @@ Through this framework, we consolidate CSPM, CWPP, and CIEM capabilities to:
 CSPM ensures that cloud environments remain secure and compliant by design.  
 Our implementation approach leverages automated policy checks, drift detection, and guardrails that:
 
-  - Prevent misconfigurations across AWS, Azure, and GCP  
+  - Prevent misconfigurations across AWS, Azure 
   - Continuously monitor compliance baselines and detect deviations  
   - Provide board-level reporting through real-time dashboards and evidence generation  
 
-**Application Security Posture Management (ASPM)**  
-ASPM extends continuous security into the application layer by integrating SAST, DAST, and dependency analysis 
-directly into the development workflow.  
-Together with Security Mind, we:
+Application Security Posture Management (ASPM)
+==============================================
 
-  - Correlate findings across code, build, and runtime stages  
-  - Prioritize vulnerabilities based on exploitability and business impact  
-  - Embed secure-by-default principles into DevSecOps toolchains  
-  - Provide traceable evidence for AI Act,
+**Security Mind**, developed in collaboration with ThinkWerke, is an AI-driven, multi-agent system 
+purpose-built to enhance **Application Security Posture Management (ASPM)**.  
+It unifies vulnerability triage, compliance monitoring, and code assurance within the software 
+development lifecycle (SDLC), embedding security intelligence directly into DevSecOps workflows.
+
+Built on advanced AI architectures, Security Mind leverages collaborative agents — for compliance, 
+threat detection, and remediation — to automate key security functions, reduce manual overhead, 
+and accelerate secure delivery across cloud and application environments.
+
+**Core Capabilities**
+---------------------
+
+- **Multi-Agent Architecture:** Specialized agents coordinate across domains such as vulnerability triage, 
+  license compliance, threat modeling, and cloud posture assessment.  
+- **Integration-Friendly:** Connects seamlessly with Jira, GitHub, and major cloud APIs ( AWS, Azure).  
+- **AI-Enabled Insight:** Uses large language models (LLMs) for natural language queries, policy interpretation, 
+  and automated threat modeling.  
+- **Continuous Assurance:** Correlates SAST, DAST, and dependency findings across build, deploy, and runtime stages 
+  to provide unified application security visibility.  
+- **Compliance Alignment:** Generates audit-ready reports mapped to **ISO/IEC 27001**, **NIS2**, **CRA**, and **AI Act** controls, 
+  supporting secure development for regulated industries.  
+- **Workflow Automation:** Automatically creates remediation tasks or Jira tickets for vulnerabilities, 
+  license issues, and policy deviations.  
+
+**Operational Features**
+------------------------
+
+- **Security Posture Reporting:** Real-time summaries of access management, vulnerabilities, and control coverage.  
+- **CVE & Dependency Triage:** AI-assisted analysis of vulnerabilities, their exploitability, and mitigations.  
+- **Policy Intelligence:** Interprets and summarizes internal policies, including open-source and SLA requirements.  
+- **Code Review Automation:** Performs AI-based code and PR reviews for security flaws, code quality, and best practices.  
+- **Cloud Resource Auditing:** Assesses GCP, AWS, and Azure environments for misconfigurations and IAM risk.  
+- **Threat Modeling:** Generates structured assessments using frameworks like STRIDE to identify design-level risks.  
+
+**Extensibility & Future Roadmap**
+----------------------------------
+
+Security Mind is fully extensible — organisations can add custom agents, integrate CI/CD hooks, 
+or connect with GRC and SIEM tools.  
+Planned enhancements include AWS/Azure full support, ML-driven anomaly detection, and enterprise dashboards.
+
+Together, **ThinkWerke and Security Mind** deliver an ASPM solution that combines **AI intelligence, automation, 
+and governance alignment** — enabling continuous assurance from code to cloud.
+
 
 Link - AI Powered ASPM - https://github.com/jitendar-singh/securitymind
 
