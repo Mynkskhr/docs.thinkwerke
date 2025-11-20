@@ -69,7 +69,7 @@ Secure Software Lifecycle Management (SSLM) Framework
 -----------------------------------------------------
 
 End-to-end model integrating SAST, SCA/SBOM, API Security, DAST, IaC scanning, container scanning,
-and secrets detection — mapped directly to **NIS2, CRA, ISO 27001, SOC 2 (Can be extended to DORA and DATA ACT)**.
+and secrets detection mapped directly to **NIS2, CRA, ISO 27001, SOC 2 (Can be extended to DORA and DATA ACT)**.
 
 Automated Vulnerability Management & Jira Governance
 ----------------------------------------------------
