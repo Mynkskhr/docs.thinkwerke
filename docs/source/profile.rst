@@ -83,14 +83,14 @@ Open Source Software License Governance
 Policy covering allowlist/restrictlist/blocklist licensing, SBOM transparency, and supply-chain compliance
 under **CRA** and **NIS2**.
 
-Cloud Security Posture & Identity Governance for NIS2/DORA
+Cloud Security Posture & Identity Governance for Nis2/Dora
 ----------------------------------------------------------
 
 C-level architecture guidance for CSPM/CIEM aligned to EU regulatory expectations, reducing operational
 risk and providing measurable assurance.
 
 These frameworks form the basis of **Thinkwerke’s 3–4 week PoC**, demonstrating rapid security
-modernisation in regulated environments.
+modernisation in regulated environments. **You can request to view it**
 
 Strategic Accelerators
 =========================
