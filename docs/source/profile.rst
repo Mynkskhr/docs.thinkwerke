@@ -6,9 +6,8 @@ European Sovereign Cloud, Security & Data Space Architect
 
 Information Security • Cloud Architecture • EU Regulatory Compliance • Secure Software Lifecycle
 
-📧 **Email:** ``Mayankshekharsingh@gmail.com``  
-📱 **Mobile:** ``+91 8882976088`` / ``+94 74 330 1711``  
-🔗 **LinkedIn:** https://linkedin.com/in/mayank-sekhar
+**Email:** ``Mayankshekharsingh@gmail.com``   
+**LinkedIn:** https://linkedin.com/in/mayank-sekhar
 
 Who I Am
 ========
