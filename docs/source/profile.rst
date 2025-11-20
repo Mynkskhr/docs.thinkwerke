@@ -59,7 +59,7 @@ I integrate:
 
 I help organisations become **audit-ready, secure, and competitive**, without slowing engineering.
 
-Executive Thought Leadership & Whitepaper Projects
+Whitepapers and Project Developments
 ==================================================
 
 In my recent work, I authored and designed several security transformation frameworks used by
