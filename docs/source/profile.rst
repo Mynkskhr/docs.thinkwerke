@@ -24,7 +24,7 @@ My strength is the ability to operate seamlessly across the entire spectrum:
 * compliance
 * executive strategy
 
-I specialise in translating complex EU regulations **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act and also on global frameworks ISO 27001, SOC 2 and CSA CCM ** 
+I specialise in translating complex EU regulations **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act and also on global frameworks ISO 27001, SOC 2 and CSA CCM** 
 into secure-by-design architectures, operational controls, and evidence-driven compliance frameworks.
 
 My work blends:
