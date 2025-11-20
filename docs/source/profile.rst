@@ -12,9 +12,9 @@ Information Security • Cloud Architecture • EU Regulatory Compliance • Sec
 Who I Am
 ========
 
-I am a European-focused Information Security & Cloud Security Architect with **12+ years of experience**
-across sovereign cloud, critical infrastructure, regulated industries, and complex multi-stakeholder
-organisations.
+I am a EU focused Information Security & Cloud Security Architect with **12+ years of experience**
+across critical infrastructure, regulated industries, and complex multi-stakeholder
+organisations with keen interest on EU Sovereign Cloud Architecture and Development Space.
 
 My strength is the ability to operate seamlessly across the entire spectrum:
 
@@ -24,7 +24,7 @@ My strength is the ability to operate seamlessly across the entire spectrum:
 * compliance
 * executive strategy
 
-I specialise in translating complex EU regulations — **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act** —
+I specialise in translating complex EU regulations **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act and also on global frameworks ISO 27001, SOC 2 and CSA CCM ** 
 into secure-by-design architectures, operational controls, and evidence-driven compliance frameworks.
 
 My work blends:
@@ -32,16 +32,14 @@ My work blends:
 * AWS Solutions Architect Professional–level cloud engineering
 * ISO 27001 governance & audit readiness
 * DevSecOps and secure CI/CD automation
-* EU regulatory mapping across IT, OT/SCADA, IoT and cloud platforms
+* EU regulatory mapping across various industrial domains and cloud platforms
 * Software supply-chain security and evidence generation
-
-I am not a theorist — **I architect, govern, implement, and deliver.**
 
 Profile Summary
 ===============
 
 Security, Cloud, and Regulatory Consultant with deep experience delivering secure cloud platforms,
-sovereign cloud architectures, and compliance-by-design operating models across **Europe and APAC**.
+sovereign cloud architectures, and compliance-by-design operating models across European Union.
 
 My background includes engineering roles at **IBM, Oracle, OpenText** and consulting engagements with
 **Red Hat, Microsoft, and AWS partners**, enabling me to bridge:
@@ -71,7 +69,7 @@ Secure Software Lifecycle Management (SSLM) Framework
 -----------------------------------------------------
 
 End-to-end model integrating SAST, SCA/SBOM, API Security, DAST, IaC scanning, container scanning,
-and secrets detection — mapped directly to **NIS2, CRA, ISO 27001, SOC 2**.
+and secrets detection — mapped directly to **NIS2, CRA, ISO 27001, SOC 2 (Can be extended to DORA and DATA ACT)**.
 
 Automated Vulnerability Management & Jira Governance
 ----------------------------------------------------
@@ -94,7 +92,7 @@ risk and providing measurable assurance.
 These frameworks form the basis of **Thinkwerke’s 3–4 week PoC**, demonstrating rapid security
 modernisation in regulated environments.
 
-Strategic Value I Deliver
+Strategic Accelerators
 =========================
 
 * Align cybersecurity, cloud, and regulatory strategy with business outcomes
@@ -104,7 +102,7 @@ Strategic Value I Deliver
 * Deliver compliance across **NIS2, CRA, ISO 27001, DORA, GDPR, AI Act**
 * Enable supply-chain and SDLC maturity for product and platform teams
 
-Business Impact & Trust Signals
+Business Process Improvements
 ===============================
 
 Audit & ISMS Delivery
@@ -190,7 +188,7 @@ Security Governance Operating Models
 
 Board-level reporting, risk operating models, and policy frameworks.
 
-Board-Level Metrics I Establish
+Business Stakeholders Insights
 ===============================
 
 * Compliance Coverage Index (NIS2, ISO 27001, DORA, CRA)
@@ -206,7 +204,7 @@ Recent Consulting Engagements
 Independent Security & Compliance Consultant (2022–Present)
 -----------------------------------------------------------
 
-Delivered AWS governance, secure CI/CD, and EU compliance alignment for a decentralised SaaS
+Delivered AWS governance, secure CI/CD, and EU compliance alignment for a decentralised Enterprise Java application Server SaaS
 organisation.
 
 DORA Programme — Healthcare (2025)
@@ -225,7 +223,7 @@ Certifications
 * DORA Trained Professional
 * AWS Security Specialty (previously held)
 * SecurityX Architect (in progress)
-* COBIT, TOGAF/ArchiMate (planned)
+* TOGAF (planned Jan 2026)
 
 Professional Capability Development
 ===================================
