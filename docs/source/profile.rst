@@ -134,44 +134,28 @@ Product Security
 Core Expertise
 ==============
 
-Security Architecture & Governance
-----------------------------------
+* **Security Architecture & Governance** - ISO 27001, NIS2, DORA, GDPR, AI Act, Data Act, CRA. Unified control frameworks, policy-as-code, and risk governance.
 
-ISO 27001, NIS2, DORA, GDPR, AI Act, Data Act, CRA.  
-Unified control frameworks, policy-as-code, and risk governance.
+* **Cloud & DevSecOps Architecture** - AWS landing zones, secure CI/CD, SAST/DAST/SBOM, attestation, IaC governance.
 
-Cloud & DevSecOps Architecture
-------------------------------
+* **Software Supply-Chain Security** - SBOM generation, OSS license governance, dependency risk, CRA and NIS2 compliance.
 
-AWS landing zones, secure CI/CD, SAST/DAST/SBOM, attestation, IaC governance.
+* **Sovereign Cloud & Data Spaces** - GAIA-X principles, trust frameworks, federated connectors, and policy enforcement.
 
-Software Supply-Chain Security
-------------------------------
-
-SBOM generation, OSS license governance, dependency risk, CRA and NIS2 compliance.
-
-Sovereign Cloud & Data Spaces
------------------------------
-
-GAIA-X principles, trust frameworks, federated connectors, and policy enforcement.
-
-Leadership & Advisory
----------------------
-
-C-level consulting, program governance, board reporting, and compliance acceleration.
+* **Leadership & Advisory** - C-level consulting, program governance, board reporting, and compliance acceleration.
 
 Consulting Offers (Thinkwerke)
 ==============================
 
-* ISO 27001 Program (8–16 weeks) - Gap assessment → SoA → internal audit → evidence → certification readiness.
+* **ISO 27001 Program (8–16 weeks)** - Gap assessment → SoA → internal audit → evidence → certification readiness.
 
-* Unified EU Compliance (NIS2, GDPR, DORA, CRA, AI Act) - Controls, governance, evidence workflows, and operational testing for regulated entities.
+* **Unified EU Compliance (NIS2, GDPR, DORA, CRA, AI Act)** - Controls, governance, evidence workflows, and operational testing for regulated entities.
 
-* AWS Security Foundations - Zero-trust IAM, encryption-by-default, SIEM/SOAR integration, and logging governance.
+* **AWS Security Foundations** - Zero-trust IAM, encryption-by-default, SIEM/SOAR integration, and logging governance.
 
-* DevSecOps Enablement - Secure pipelines, IaC scanning, SAST/DAST, SBOM, attestation, and provenance.
+* **DevSecOps Enablement** - Secure pipelines, IaC scanning, SAST/DAST, SBOM, attestation, and provenance.
 
-* Security Governance Operating Models - Board-level reporting, risk operating models, and policy frameworks.
+* **Security Governance Operating Models** - Board-level reporting, risk operating models, and policy frameworks.
 
 Business Stakeholders Insights
 ===============================
