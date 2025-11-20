@@ -163,30 +163,15 @@ C-level consulting, program governance, board reporting, and compliance accelera
 Consulting Offers (Thinkwerke)
 ==============================
 
-ISO 27001 Program (8–16 weeks)
-------------------------------
+* ISO 27001 Program (8–16 weeks) - Gap assessment → SoA → internal audit → evidence → certification readiness.
 
-Gap assessment → SoA → internal audit → evidence → certification readiness.
+* Unified EU Compliance (NIS2, GDPR, DORA, CRA, AI Act) - Controls, governance, evidence workflows, and operational testing for regulated entities.
 
-Unified EU Compliance (NIS2, GDPR, DORA, CRA, AI Act)
------------------------------------------------------
+* AWS Security Foundations - Zero-trust IAM, encryption-by-default, SIEM/SOAR integration, and logging governance.
 
-Controls, governance, evidence workflows, and operational testing for regulated entities.
+* DevSecOps Enablement - Secure pipelines, IaC scanning, SAST/DAST, SBOM, attestation, and provenance.
 
-AWS Security Foundations
-------------------------
-
-Zero-trust IAM, encryption-by-default, SIEM/SOAR integration, and logging governance.
-
-DevSecOps Enablement
---------------------
-
-Secure pipelines, IaC scanning, SAST/DAST, SBOM, attestation, and provenance.
-
-Security Governance Operating Models
-------------------------------------
-
-Board-level reporting, risk operating models, and policy frameworks.
+* Security Governance Operating Models - Board-level reporting, risk operating models, and policy frameworks.
 
 Business Stakeholders Insights
 ===============================
