@@ -9,8 +9,8 @@ Information Security • Cloud Architecture • EU Regulatory Compliance • Sec
 **Email:** ``Mayankshekharsingh@gmail.com``   
 **LinkedIn:** https://linkedin.com/in/mayank-sekhar
 
-Who I Am
-========
+Introduction
+============
 
 I am a EU focused Information Security & Cloud Security Architect with **12+ years of experience**
 across critical infrastructure, regulated industries, and complex multi-stakeholder
