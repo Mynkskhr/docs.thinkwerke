@@ -230,8 +230,8 @@ Professional Capability Development
 
 Continuously expanding in:
 
-* COBIT
-* ArchiMate / TOGAF
-* Program & portfolio governance (PMP)
+* TOGAF
 * Data spaces and federated trust frameworks
 * Regulatory engineering across EU critical infrastructure
+* Contribution to GAIA-X and IDSA
+* Contribution to ENISA
