@@ -207,7 +207,7 @@ Independent Security & Compliance Consultant (2022–Present)
 Delivered AWS governance, secure CI/CD, and EU compliance alignment for a decentralised Enterprise Java application Server SaaS
 organisation.
 
-DORA Programme — Healthcare (2025)
+DORA Programme - Healthcare (2025)
 ----------------------------------
 
 Delivered a full DORA roadmap through a software services partner, endorsed by VP (CGI), covering
