@@ -1,164 +1,240 @@
 Mayank Sekhar
 =============
 
-**Information Security & Cloud Consultant**
+European Sovereign Cloud, Security & Data Space Architect
+---------------------------------------------------------
 
- **Email:** Mayankshekharsingh@gmail.com  
- **Mobile:** +91 8882976088 / +94 74 330 1711  
- **LinkedIn:** https://linkedin.com/in/mayank-sekhar
+Information Security • Cloud Architecture • EU Regulatory Compliance • Secure Software Lifecycle
 
----
+📧 **Email:** ``Mayankshekharsingh@gmail.com``  
+📱 **Mobile:** ``+91 8882976088`` / ``+94 74 330 1711``  
+🔗 **LinkedIn:** https://linkedin.com/in/mayank-sekhar
 
 Who I Am
---------
+========
 
-I am a hands-on **Information Security**, **Cloud Security Architect**, and **AWS Solutions Architect** who has evolved into a strategic consultant and executive advisor. With deep engineering experience and a strong GRC foundation, I bridge the gap between business objectives and technical execution, ensuring security is not just compliant but also an accelerator for product growth, customer trust, and market expansion.
+I am a European-focused Information Security & Cloud Security Architect with **12+ years of experience**
+across sovereign cloud, critical infrastructure, regulated industries, and complex multi-stakeholder
+organisations.
 
-I understand how to build and protect systems at the infrastructure level, but more importantly, I know how to translate technical outcomes into business value. Whether working with C-level leadership or engineering teams, I focus on closing gaps across people, process, and technology so organisations can scale securely, pass audits confidently, and deliver products faster without compromising risk posture.
+My strength is the ability to operate seamlessly across the entire spectrum:
 
-If your organisation needs someone who can design secure architectures, implement controls, assess infrastructure realities, and deliver measurable outcomes, I bring the ability to operate at both hands-on technical depth and board-level strategic height. aligning all stakeholders toward secure, growth-oriented results and providing accurate reports to stakeholders about blockers, whether cultural, knowledge-based, or human factors.
+* technical architecture
+* secure engineering
+* governance
+* compliance
+* executive strategy
 
----
+I specialise in translating complex EU regulations — **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act** —
+into secure-by-design architectures, operational controls, and evidence-driven compliance frameworks.
+
+My work blends:
+
+* AWS Solutions Architect Professional–level cloud engineering
+* ISO 27001 governance & audit readiness
+* DevSecOps and secure CI/CD automation
+* EU regulatory mapping across IT, OT/SCADA, IoT and cloud platforms
+* Software supply-chain security and evidence generation
+
+I am not a theorist — **I architect, govern, implement, and deliver.**
 
 Profile Summary
----------------
+===============
 
-Information Security and Cloud Consultant with **12+ years** of global experience delivering secure digital transformation, cloud governance, and regulatory compliance programs for European and global organisations.
+Security, Cloud, and Regulatory Consultant with deep experience delivering secure cloud platforms,
+sovereign cloud architectures, and compliance-by-design operating models across **Europe and APAC**.
 
-I have held full-time roles with **IBM**, **Oracle**, and **OpenText**, building a solid foundation in cloud infrastructure, DevOps, and information security.
+My background includes engineering roles at **IBM, Oracle, OpenText** and consulting engagements with
+**Red Hat, Microsoft, and AWS partners**, enabling me to bridge:
 
-Additionally, I have delivered project consulting engagements with **Red Hat** and **Microsoft**, enabling enterprises to secure multi-cloud environments, establish strong governance, and achieve cross-regional regulatory compliance.
+* deep technical depth
+* secure architectural patterns
+* regulatory expectations
+* leadership-level business outcomes
 
-I specialise in guiding organisations through complex security transformations — from **zero-trust architecture** and **secure CI/CD pipelines** to **multi-geo compliance programs** aligned with **ISO 27001**, **GDPR**, **CIS Benchmarks**, and **NIST CSF**.
+I integrate:
 
-My work integrates governance, automation, and resilience into cloud environments, ensuring risk reduction, audit readiness, and faster delivery without operational friction.
+* **Cloud Security Architecture** (AWS-first, hybrid, sovereign)
+* **GAIA-X & Data Space principles**
+* **ISMS governance & EU regulatory engineering**
+* **DevSecOps pipelines & automated validation**
+* **Secure Software Lifecycle Management (SSLM) frameworks**
 
----
+I help organisations become **audit-ready, secure, and competitive**, without slowing engineering.
 
-Executive Value I Deliver
--------------------------
+Executive Thought Leadership & Whitepaper Projects
+==================================================
 
-- Align cybersecurity with business strategy, revenue protection, and product velocity.  
-- Deliver secure-by-design cloud architectures with measurable guardrails.  
-- Achieve audit-ready compliance for **ISO 27001**, **GDPR**, **NIS2**, **DORA**, **EU AI ACT**, and **Cyber Resilience Act**.  
-- Establish governance, KPIs, and dashboards for board-level risk visibility.  
-- Close organisational gaps between leadership, architecture, and DevOps.  
-- Turn cybersecurity into a competitive advantage, not a cost centre.
+In my recent work, I authored and designed several security transformation frameworks used by
+regulated organisations:
 
----
+Secure Software Lifecycle Management (SSLM) Framework
+-----------------------------------------------------
+
+End-to-end model integrating SAST, SCA/SBOM, API Security, DAST, IaC scanning, container scanning,
+and secrets detection — mapped directly to **NIS2, CRA, ISO 27001, SOC 2**.
+
+Automated Vulnerability Management & Jira Governance
+----------------------------------------------------
+
+A unified workflow replacing spreadsheets with automated detection → assignment → SLA tracking
+→ evidence and closure.
+
+Open Source Software License Governance
+---------------------------------------
+
+Policy covering allowlist/restrictlist/blocklist licensing, SBOM transparency, and supply-chain compliance
+under **CRA** and **NIS2**.
+
+Cloud Security Posture & Identity Governance for NIS2/DORA
+----------------------------------------------------------
+
+C-level architecture guidance for CSPM/CIEM aligned to EU regulatory expectations, reducing operational
+risk and providing measurable assurance.
+
+These frameworks form the basis of **Thinkwerke’s 3–4 week PoC**, demonstrating rapid security
+modernisation in regulated environments.
+
+Strategic Value I Deliver
+=========================
+
+* Align cybersecurity, cloud, and regulatory strategy with business outcomes
+* Architect secure-by-design platforms with measurable guardrails
+* Build governance models that satisfy regulators and accelerate engineering
+* Transform DevOps into **automated, evidence-driven DevSecOps**
+* Deliver compliance across **NIS2, CRA, ISO 27001, DORA, GDPR, AI Act**
+* Enable supply-chain and SDLC maturity for product and platform teams
 
 Business Impact & Trust Signals
 ===============================
 
-Results that demonstrate measurable resilience, operational efficiency, and regulatory confidence:
+Audit & ISMS Delivery
+---------------------
 
-- **Audit & Certification:** Achieved ISO/IEC 27001 certification on the first audit cycle and reduced audit findings by over 80%.  
-- **Compliance Efficiency:** Accelerated regulatory readiness cycles from nine months to under sixteen weeks through targeted automation.  
-- **Assurance & Quality:** Delivered multi-region audit programs with zero major nonconformities.  
-- **Engineering Velocity:** Improved DevOps throughput by 30% by embedding security-by-design and secure-by-default principles, 
-  implementing policy-as-code, and transforming a development team into a fully functioning DevSecOps capability.
-- **Regulatory Implementation:** Led a full DORA implementation program from risk assessment to operational testing and board-level reporting.   
-- **EU Regulatory Implementation (NIS2, CRA, AI Act, Data Act):** Designed unified control and reporting models across IT and OT/SCADA environments, 
-  embedded secure-by-design and product security principles, developed AI governance and conformity assessment templates, 
-  and defined data access, interoperability, and stewardship frameworks for connected systems and analytics platforms.
+* Achieved ISO 27001 certification in the first audit cycle
+* Reduced audit findings by **80%**
+* Delivered multi-region ISO programs with **zero major non-conformities**
 
----
+Regulatory Acceleration
+-----------------------
+
+* Reduced regulatory readiness from **9 months → 16 weeks**
+* Delivered DORA alignment including governance, risk, and operational testing
+
+Engineering Velocity
+--------------------
+
+* Improved DevOps throughput by **~30%**
+* Designed pipelines with automated audit evidence for ISO/NIS2/CRA
+
+Product Security
+----------------
+
+* Built secure cloud landing zones and zero-trust IAM
+* Designed platform-wide encryption, observability, and SDLC controls
+* Delivered AI governance and conformity assessment models
 
 Core Expertise
---------------
+==============
 
-I bring a blend of strategic governance, technical depth, and leadership experience that enables organizations 
-to build secure, compliant, and scalable digital environments.
+Security Architecture & Governance
+----------------------------------
 
-- **Security Architecture & Regulatory Integration** — designing unified control frameworks that align 
-  cybersecurity, compliance, and business objectives  
-- **ISO/IEC 27001 & EU Regulatory Alignment** — mapping and implementing controls across ISO 27001, NIS2, AI Act, 
-  Data Act, CRA, and DORA frameworks  
-- **Governance, Risk & Compliance (GRC)** — establishing enterprise policies, risk assessments, CSIRT functions, 
-  audit readiness programs, and continuity plans (BCP/DRP)  
-- **Cloud & DevSecOps Enablement** — embedding security into the development lifecycle through secure CI/CD, 
-  infrastructure-as-code (IaC), observability, and zero-trust cloud baselines  
-- **Secure-by-Design & SecOps Implementation** — ensuring every product and service incorporates 
-  continuous security validation and resilience-by-default principles  
-- **Advisory & Leadership Engagement** — providing C-level consulting, program governance, product ownership support, 
-  and organizational awareness initiatives that translate compliance into measurable business value
+ISO 27001, NIS2, DORA, GDPR, AI Act, Data Act, CRA.  
+Unified control frameworks, policy-as-code, and risk governance.
 
----
+Cloud & DevSecOps Architecture
+------------------------------
 
-Core Consulting Offers
-----------------------
+AWS landing zones, secure CI/CD, SAST/DAST/SBOM, attestation, IaC governance.
 
-**ISO 27001 Program (8–16 weeks)**  
-From gap assessment to audit readiness — risk treatment, SoA, internal audit, and evidence management.
+Software Supply-Chain Security
+------------------------------
 
-**GDPR + NIS2 Compliance Program**  
-End-to-end governance, CSIRT setup, control documentation, and cross-regional compliance alignment.
+SBOM generation, OSS license governance, dependency risk, CRA and NIS2 compliance.
 
-**Cloud Security Foundation for AWS**  
-Landing zone design, IAM hardening, logging, encryption, and zero-trust guardrails.
+Sovereign Cloud & Data Spaces
+-----------------------------
 
-**DevSecOps Enablement**  
-Hardened CI/CD pipelines, POC-based delivery, SAST/DAST automation, and evidence-first compliance.
+GAIA-X principles, trust frameworks, federated connectors, and policy enforcement.
 
-**Security Governance & Operating Model (GRC)**  
-Policies, KPIs, risk registers, and board-level dashboards to ensure governance maturity.
+Leadership & Advisory
+---------------------
 
-**End-to-end execution:** Architecture → Governance → Controls → Evidence → Audit → Handover
+C-level consulting, program governance, board reporting, and compliance acceleration.
 
----
+Consulting Offers (Thinkwerke)
+==============================
+
+ISO 27001 Program (8–16 weeks)
+------------------------------
+
+Gap assessment → SoA → internal audit → evidence → certification readiness.
+
+Unified EU Compliance (NIS2, GDPR, DORA, CRA, AI Act)
+-----------------------------------------------------
+
+Controls, governance, evidence workflows, and operational testing for regulated entities.
+
+AWS Security Foundations
+------------------------
+
+Zero-trust IAM, encryption-by-default, SIEM/SOAR integration, and logging governance.
+
+DevSecOps Enablement
+--------------------
+
+Secure pipelines, IaC scanning, SAST/DAST, SBOM, attestation, and provenance.
+
+Security Governance Operating Models
+------------------------------------
+
+Board-level reporting, risk operating models, and policy frameworks.
 
 Board-Level Metrics I Establish
 ===============================
 
-Focused indicators that demonstrate governance maturity, security assurance, and measurable business resilience:
-
-- **Audit Performance:** Closure rate, evidence quality, and risk coverage  
-- **Operational Resilience:** Response effectiveness, recovery confidence, and service continuity  
-- **Compliance Coverage:** % of assets aligned with ISO 27001, NIS2, AI Act, Data Act, and CRA  
-- **Identity Security:** Reduced privilege exposure and strengthened access assurance  
-- **Cloud & DevSecOps:** Secure change control, configuration integrity, and audit transparency  
-- **Secure-by-Design Integration:** Security embedded across the development lifecycle through continuous SecOps practices
-
----
+* Compliance Coverage Index (NIS2, ISO 27001, DORA, CRA)
+* Vulnerability lifecycle KPIs
+* Secure SDLC maturity score
+* Identity governance assurance indicators
+* Cloud drift and configuration integrity
+* SBOM and software supply-chain integrity metrics
 
 Recent Consulting Engagements
------------------------------
+=============================
 
-**Independent Consulting – Remote**  
-*Cloud & DevSecOps Consultant | July 2022 – December 2022*  
-Delivered AWS cloud governance, secure CI/CD, and regulatory alignment for a decentralised Java-based product company.
+Independent Security & Compliance Consultant (2022–Present)
+-----------------------------------------------------------
 
-**AWS Solution & InfoSec Consultancy**  
-*DORA Program (Healthcare via Software Services Partner) | March 2025 – August 2025*  
-Delivered DORA readiness roadmap, established control ownership, and defined compliance metrics.  
-Secured endorsement for DORA Implementation and Governance consultancy based on successful pilot delivery by Vice-President of CGI.
+Delivered AWS governance, secure CI/CD, and EU compliance alignment for a decentralised SaaS
+organisation.
 
----
+DORA Programme — Healthcare (2025)
+----------------------------------
+
+Delivered a full DORA roadmap through a software services partner, endorsed by VP (CGI), covering
+governance, risk, and operational resilience testing.
 
 Certifications
---------------
+==============
 
-- **AWS Certified Solutions Architect – Professional (2025)**  
-- **CISM, ISACA (2025)**  
-- **ISO 27001:2022 Lead Implementer, TÜV SÜD (2025)**  
-- **NIS2 (Scoring 91.4%) & DORA Trained Professional (EU Compliance, 2025)**  
-- **CompTIA SecurityX (Gold Level Security Architect – expected Nov 2025)**  
-- **AWS Certified Security – Specialty** (expired, but validated skills)
-  Certificates - [ https://github.com/Mynkskhr/Thinkwerke/blob/main/Certifications.md ]
+* AWS Solutions Architect — Professional
+* ISO 27001 Lead Implementer
+* CISM
+* NIS2 Certified
+* DORA Trained Professional
+* AWS Security Specialty (previously held)
+* SecurityX Architect (in progress)
+* COBIT, TOGAF/ArchiMate (planned)
 
 Professional Capability Development
------------------------------------
+===================================
 
-To continuously elevate project delivery quality and strengthen architectural outcomes, 
-I am deepening my expertise through upcoming certifications in **CompTIA SecurityX Architect**, 
-**COBIT**, and **PMP**.
+Continuously expanding in:
 
-These advanced disciplines reinforce my ability to design and implement **enterprise-grade security architectures**, 
-establish **governance frameworks grounded in measurable value**, and manage **multi-domain regulatory programs** 
-with precision, accountability, and executive alignment.
-
-This ongoing capability development reflects my commitment to operate not merely as a consultant, 
-but as an **independent architect bridging cybersecurity, business strategy, and transformation delivery**
-ensuring that every engagement delivers resilience, compliance, and measurable business impact.
-
-
+* COBIT
+* ArchiMate / TOGAF
+* Program & portfolio governance (PMP)
+* Data spaces and federated trust frameworks
+* Regulatory engineering across EU critical infrastructure
