@@ -51,11 +51,11 @@ My background includes engineering roles at **IBM, Oracle, OpenText** and consul
 
 I integrate:
 
-* **Cloud Security Architecture** (AWS-first, hybrid, sovereign)
-* **GAIA-X & Data Space principles**
-* **ISMS governance & EU regulatory engineering**
-* **DevSecOps pipelines & automated validation**
-* **Secure Software Lifecycle Management (SSLM) frameworks**
+* Cloud Security Architecture (AWS-first, hybrid, sovereign)
+* GAIA-X & Data Space principles
+* ISMS governance & EU regulatory engineering
+* DevSecOps pipelines & automated validation
+* Secure Software Lifecycle Management (SSLM) frameworks
 
 I help organisations become **audit-ready, secure, and competitive**, without slowing engineering.
 
