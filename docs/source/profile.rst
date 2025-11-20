@@ -12,9 +12,9 @@ Information Security • Cloud Architecture • EU Regulatory Compliance • Sec
 Introduction
 ============
 
-I am a EU focused Information Security & Cloud Security Architect with **12+ years of experience**
+Information Security & Cloud Security Architect with **12+ years of experience**
 across critical infrastructure, regulated industries, and complex multi-stakeholder
-organisations with keen interest on EU Sovereign Cloud Architecture and Development Space.
+organisations with keen interest on EU Sovereign Cloud Architecture and Data Space.
 
 My strength is the ability to operate seamlessly across the entire spectrum:
 
