@@ -87,17 +87,15 @@ This creates:
 * Reduced reliance on external partners  
 * Documented, repeatable, measurable controls
 
-We Automate the most Critical KPI's for Business Stakeholders
--------------------------------------------------------------
+Business Stakeholders Insights
+===============================
 
-Every control generates **evidence**:
-
-* Tickets  
-* Reports  
-* SBOMs  
-* Logs  
-* Audit trails  
-* Configuration snapshots  
+* Compliance Coverage Index (NIS2, ISO 27001, DORA, CRA)
+* Vulnerability lifecycle KPIs
+* Secure SDLC maturity score
+* Identity governance assurance indicators
+* Cloud drift and configuration integrity
+* SBOM and software supply-chain integrity metrics
 
 We Transfer Knowledge
 ---------------------
