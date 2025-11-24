@@ -9,55 +9,30 @@ Information Security • Cloud Architecture • EU Regulatory Compliance • Sec
 **Email:** ``Mayankshekharsingh@gmail.com``   
 **LinkedIn:** https://linkedin.com/in/mayank-sekhar
 
-Introduction
-============
 
-Information Security & Cloud Security Architect with **12+ years of experience**
-across critical infrastructure, regulated industries, and complex multi-stakeholder
-organisations with keen interest on EU Sovereign Cloud Architecture and Data Space.
+I am an Information Security & Cloud Security Architect with **12+ years of experience** across critical infrastructure, regulated industries, and multi-stakeholder environments, with a strong focus on **EU Sovereign Cloud**, **data sovereignty**, and emerging **European Data Space** initiatives. My past work experiences includes impactful engineering roles at **IBM, Oracle, and OpenText**, combined with consulting work at **Red Hat, Microsoft, and AWS partners**.
 
-My strength is the ability to operate seamlessly across the entire spectrum:
+My strength is the ability to operate across the full lifecycle of modern security and cloud transformation:
 
 * technical architecture
 * secure engineering
-* governance
-* compliance
+* GRC (Governance, Risk and Compliance
 * executive strategy
 
-I specialise in translating complex EU regulations **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act** and also on global frameworks **ISO 27001, SOC 2 and CSA CCM** 
-into secure-by-design architectures, operational controls, and evidence-driven compliance frameworks.
+I specialise in translating complex EU regulations — **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act** and global frameworks such as **ISO 27001, SOC 2, and CSA CCM** into secure-by-design architectures, operational controls, and evidence-driven compliance workflows tailored for European organisations.
 
-My work blends:
+I integrate and deliver:
 
-* AWS Solutions Architect Professional–level cloud engineering
-* ISO 27001 governance & audit readiness
-* DevSecOps and secure CI/CD automation
-* EU regulatory mapping across various industrial domains and cloud platforms
-* Software supply-chain security and evidence generation
+* Cloud Security Architecture (AWS-first, hybrid, sovereign) with GAIA-X and European Data Space principles.
+* ISMS governance and EU regulatory engineering for ISO 27001, NIS2, CRA, GDPR, and DORA alignment.
+* DevSecOps pipelines with automated validation across SAST, SCA/SBOM, IaC, DAST, and container security.
+* Secure Software Lifecycle Management (SSLM) and software supply-chain risk controls.
+* Automated CI/CD, artifact integrity, attestation, and evidence-generating workflows.
+* CSPM, IAM governance, multi-account security foundations, and continuous cloud posture visibility.
+* AWS Solutions Architect Professional–level cloud engineering delivering practical, audit-ready security controls.
 
-Profile Summary
-===============
+I have helped organisations become **audit-ready, secure, competitive, and resilient**, while enabling engineering teams to deliver quickly and confidently under modern EU regulatory requirements.
 
-Security, Cloud, and Regulatory Consultant with deep experience delivering secure cloud platforms,
-sovereign cloud architectures, and compliance-by-design operating models across European Union.
-
-My background includes engineering roles at **IBM, Oracle, OpenText** and consulting engagements with
-**Red Hat, Microsoft, and AWS partners**, enabling me to bridge:
-
-* deep technical depth
-* secure architectural patterns
-* regulatory expectations
-* leadership-level business outcomes
-
-I integrate:
-
-* Cloud Security Architecture (AWS-first, hybrid, sovereign)
-* GAIA-X & Data Space principles
-* ISMS governance & EU regulatory engineering
-* DevSecOps pipelines & automated validation
-* Secure Software Lifecycle Management (SSLM) frameworks
-
-I help organisations become **audit-ready, secure, and competitive**, without slowing engineering.
 
 Whitepapers and Project Developments
 ==================================================
