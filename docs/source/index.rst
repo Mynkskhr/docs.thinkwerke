@@ -74,7 +74,7 @@ Compliance must be engineered, automated, and continuously visible, not performe
 
 We provide:
 
-* Architecture leadership (Security & Cloud)
+* Solutions Architecture Development (Security & Cloud)
 * Hands-on DevSecOps engineers
 * Delivery managers who understand both compliance and engineering
 * Process designers who help internal teams adopt sustainable practices
