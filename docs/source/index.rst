@@ -8,8 +8,6 @@ Our work turns regulations such as **ISO 27001, NIS2, CRA, SOC 2, GDPR, DORA, an
 
 We do not deliver presentations alone, we deliver **systems, pipelines, evidence, governance, and capability uplift**.
 
----
-
 What We Offer
 =============
 
@@ -68,8 +66,6 @@ Secure DevOps & CI/CD Enablement
 
 **Outcome:** Faster delivery with built-in governance and security.
 
----
-
 How We Deliver Value
 ====================
 
@@ -108,8 +104,6 @@ We Transfer Knowledge
 
 We coach your teams to operate and improve the system without external dependency.
 
----
-
 Why Organisations Choose Thinkwerke
 ===================================
 
@@ -121,8 +115,6 @@ Why Organisations Choose Thinkwerke
 * Sovereign cloud and EU data residency alignment  
 * Direct support for tender preparation and customer security assessments  
 
----
-
 If You Hire Us, You Get
 =======================
 
@@ -131,10 +123,7 @@ If You Hire Us, You Get
 * Automated evidence and audit readiness  
 * Stronger customer and regulator confidence  
 * Team uplift through hands-on coaching  
-* Reduced long-term dependency on external providers  
-
----
-
+* Reduced long-term dependency on external providers
 
 .. toctree::
    :maxdepth: 2
