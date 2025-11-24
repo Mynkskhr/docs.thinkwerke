@@ -119,29 +119,6 @@ Core Expertise
 
 * **Leadership & Advisory** - C-level consulting, program governance, board reporting, and compliance acceleration.
 
-Consulting Offers (Thinkwerke)
-==============================
-
-* **ISO 27001 Program (8–16 weeks)** - Gap assessment → SoA → internal audit → evidence → certification readiness.
-
-* **Unified EU Compliance (NIS2, GDPR, DORA, CRA, AI Act)** - Controls, governance, evidence workflows, and operational testing for regulated entities.
-
-* **AWS Security Foundations** - Zero-trust IAM, encryption-by-default, SIEM/SOAR integration, and logging governance.
-
-* **DevSecOps Enablement** - Secure pipelines, IaC scanning, SAST/DAST, SBOM, attestation, and provenance.
-
-* **Security Governance Operating Models** - Board-level reporting, risk operating models, and policy frameworks.
-
-Business Stakeholders Insights
-===============================
-
-* Compliance Coverage Index (NIS2, ISO 27001, DORA, CRA)
-* Vulnerability lifecycle KPIs
-* Secure SDLC maturity score
-* Identity governance assurance indicators
-* Cloud drift and configuration integrity
-* SBOM and software supply-chain integrity metrics
-
 Recent Consulting Engagements
 =============================
 
@@ -162,19 +139,15 @@ Certifications
 
 * AWS Solutions Architect — Professional
 * ISO 27001 Lead Implementer
-* CISM
-* NIS2 Certified
-* DORA Trained Professional
+* CISM by ISACA
+* NIS2 Certified & DORA Trained Professional
 * AWS Security Specialty (previously held)
-* SecurityX Architect (in progress)
+* CompTIA SecurityX Architect (in progress)
 * TOGAF (planned Jan 2026)
 
-Professional Capability Development
-===================================
+Professional Capability Development Continuously expanding in
+=============================================================
 
-Continuously expanding in:
-
-* TOGAF
 * Data spaces and federated trust frameworks
 * Regulatory engineering across EU critical infrastructure
 * Contribution to GAIA-X and IDSA
