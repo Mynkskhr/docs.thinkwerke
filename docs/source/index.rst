@@ -70,7 +70,7 @@ How We Deliver Value
 ====================
 
 Thinkwerke follows a simple principle:  
-Compliance must be engineered, automated, and continuously visible, not performed manually once a year or on Cutomer demand, it is always in "Ready" mode.
+Compliance must be engineered, automated, and continuously visible, not performed manually once a year or on Cutomer demand, it should always be in "Ready" mode.
 
 We provide:
 
