@@ -19,7 +19,7 @@ My strength is the ability to operate across the full lifecycle of modern securi
 * GRC (Governance, Risk and Compliance
 * executive strategy
 
-I specialise in translating complex EU regulations — **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act** and global frameworks such as **ISO 27001, SOC 2, and CSA CCM** into secure-by-design architectures, operational controls, and evidence-driven compliance workflows tailored for European organisations.
+I specialise in translating complex EU regulations **NIS2, DORA, GDPR, CRA, EU Data Act, AI Act** and global frameworks such as **ISO 27001, SOC 2, and CSA CCM** into secure-by-design architectures, operational controls, and evidence-driven compliance workflows tailored for European organisations.
 
 I integrate and deliver:
 
