@@ -35,13 +35,12 @@ I have helped organisations become **audit-ready, secure, competitive, and resil
 
 
 Whitepapers and Project Developments
-==================================================
+-----------------------------------------------------
 
 In my recent work, I authored and designed several security transformation frameworks used by
 regulated organisations:
 
-Secure Software Lifecycle Management (SSLM) Framework
------------------------------------------------------
+**Secure Software Lifecycle Management (SSLM) Framework**
 
 End-to-end model integrating SAST, SCA/SBOM, API Security, DAST, IaC scanning, container scanning,
 and secrets detection mapped directly to **NIS2, CRA, ISO 27001, SOC 2** (Can be extended to DORA and DATA ACT).
