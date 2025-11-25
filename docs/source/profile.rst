@@ -45,20 +45,17 @@ regulated organisations:
 End-to-end model integrating SAST, SCA/SBOM, API Security, DAST, IaC scanning, container scanning,
 and secrets detection mapped directly to **NIS2, CRA, ISO 27001, SOC 2** (Can be extended to DORA and DATA ACT).
 
-Automated Vulnerability Management & Jira Governance
-----------------------------------------------------
+**Automated Vulnerability Management & Jira Governance**
 
 A unified workflow replacing spreadsheets with automated detection → assignment → SLA tracking
 → evidence and closure.
 
-Open Source Software License Governance
----------------------------------------
+**Open Source Software License Governance**
 
 Policy covering allowlist/restrictlist/blocklist licensing, SBOM transparency, and supply-chain compliance
 under **CRA** and **NIS2**.
 
-Cloud Security Posture & Identity Governance for Nis2/Dora
-----------------------------------------------------------
+**Cloud Security Posture & Identity Governance for Nis2/Dora**
 
 C-level architecture guidance for CSPM/CIEM aligned to EU regulatory expectations, reducing operational
 risk and providing measurable assurance.
@@ -67,7 +64,7 @@ These frameworks form the basis of **Thinkwerke’s 3–4 week PoC**, demonstrat
 modernisation in regulated environments. **You can request to view it**
 
 Strategic Accelerators
-=========================
+------------------------------------
 
 * Align cybersecurity, cloud, and regulatory strategy with business outcomes
 * Architect secure-by-design platforms with measurable guardrails
@@ -77,36 +74,32 @@ Strategic Accelerators
 * Enable supply-chain and SDLC maturity for product and platform teams
 
 Business Process Improvements
-===============================
+------------------------------------
 
-Audit & ISMS Delivery
----------------------
+**Audit & ISMS Delivery**
 
 * Achieved ISO 27001 certification in the first audit cycle
 * Reduced audit findings by **80%**
 * Delivered multi-region ISO programs with **zero major non-conformities**
 
-Regulatory Acceleration
------------------------
+**Regulatory Acceleration**
 
 * Reduced regulatory readiness from **9 months → 16 weeks**
 * Delivered DORA alignment including governance, risk, and operational testing
 
-Engineering Velocity
---------------------
+**Engineering Velocity**
 
 * Improved DevOps throughput by **~30%**
 * Designed pipelines with automated audit evidence for ISO/NIS2/CRA
 
-Product Security
-----------------
+**Product Security**
 
 * Built secure cloud landing zones and zero-trust IAM
 * Designed platform-wide encryption, observability, and SDLC controls
 * Delivered AI governance and conformity assessment models
 
 Core Expertise
-==============
+---------------
 
 * **Security Architecture & Governance** - ISO 27001, NIS2, DORA, GDPR, AI Act, Data Act, CRA. Unified control frameworks, policy-as-code, and risk governance.
 
@@ -119,23 +112,20 @@ Core Expertise
 * **Leadership & Advisory** - C-level consulting, program governance, board reporting, and compliance acceleration.
 
 Recent Consulting Engagements
-=============================
+------------------------------------
 
-Independent Security & Compliance Consultant (2022–Present)
------------------------------------------------------------
+**Independent Security & Compliance Consultant (2022–Present)**
 
 Delivered AWS governance, secure CI/CD, and EU compliance alignment for a decentralised Enterprise Java application Server SaaS
 organisation.
 
-DORA Programme - Healthcare (2025)
-----------------------------------
+**DORA Programme - Healthcare (2025)**
 
 Delivered a full DORA roadmap through a software services partner, endorsed by VP (CGI), covering
 governance, risk, and operational resilience testing.
 
 Certifications
-==============
-
+--------------
 * AWS Solutions Architect — Professional
 * ISO 27001 Lead Implementer
 * CISM by ISACA
@@ -145,7 +135,7 @@ Certifications
 * TOGAF (planned Jan 2026)
 
 Professional Capability Development Continuously expanding in
-=============================================================
+--------------------------------------------------------------
 
 * Data spaces and federated trust frameworks
 * Regulatory engineering across EU critical infrastructure
