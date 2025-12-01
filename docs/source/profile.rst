@@ -23,13 +23,14 @@ I specialise in translating complex EU regulations **NIS2, DORA, GDPR, CRA, EU D
 
 I integrate and deliver:
 
-* Cloud Security Architecture (AWS-first, hybrid, sovereign) with GAIA-X and European Data Space principles.
+* Cloud Security Architecture (AWS-first, hybrid with Private Data Center Operators of EU, sovereign)
 * ISMS governance and EU regulatory engineering for ISO 27001, NIS2, CRA, GDPR, and DORA alignment.
 * DevSecOps pipelines with automated validation across SAST, SCA/SBOM, IaC, DAST, and container security.
 * Secure Software Lifecycle Management (SSLM) and software supply-chain risk controls.
 * Automated CI/CD, artifact integrity, attestation, and evidence-generating workflows.
 * CSPM, IAM governance, multi-account security foundations, and continuous cloud posture visibility.
 * AWS Solutions Architect Professional–level cloud engineering delivering practical, audit-ready security controls.
+* I can also align your Solutions and Security Architecture with future with GAIA-X and European Data Space principles.
 
 I have helped organisations become **audit-ready, secure, competitive, and resilient**, while enabling engineering teams to deliver quickly and confidently under modern EU regulatory requirements.
 
