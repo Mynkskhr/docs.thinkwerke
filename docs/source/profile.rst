@@ -1,12 +1,12 @@
-Mayank Sekhar
-=============
+Consultant Profile
+==================
 
-European Sovereign Cloud, Security & Data Space Architect
----------------------------------------------------------
+Mayank Sekhar (Solutions & Security Architect)
+----------------------------------------------
 
-Information Security • Cloud Architecture • EU Regulatory Compliance • Secure Software Lifecycle
+Information Security • Cloud/ On-Prem Architecture • EU Regulatory Compliance • Secure Software Lifecycle
 
-**Email:** ``Mayankshekharsingh@gmail.com``   
+**Email:** ``Thinkwerke@tutamail.com``   
 **LinkedIn:** https://linkedin.com/in/mayank-sekhar
 
 
@@ -128,12 +128,12 @@ governance, risk, and operational resilience testing.
 Certifications
 --------------
 * AWS Solutions Architect — Professional
+* CompTIA SecurityX Architect
 * ISO 27001 Lead Implementer
 * CISM by ISACA
 * NIS2 Certified & DORA Trained Professional
 * AWS Security Specialty (previously held)
-* CompTIA SecurityX Architect (in progress)
-* TOGAF (planned Jan 2026)
+* TOGAF & CISSP (planned 2026)
 
 Professional Capability Development Continuously expanding in
 --------------------------------------------------------------
