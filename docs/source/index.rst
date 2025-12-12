@@ -1,12 +1,19 @@
-ThinkWerke
-===========
+ThinkWerke Documentation
+========================
 
-Thinkwerke is a security, cloud, and compliance engineering practice focused on helping European organisations meet rising regulatory expectations while improving the speed, reliability, and security of their technology platforms.
+EU Cloud Resilience • Cybersecurity Architecture • AWS Engineering
+------------------------------------------------------------------
+ThinkWerke is a collection of research-backed, engineering-driven, security-focused frameworks designed to accelerate the adoption of resilient cloud architectures, EU regulatory compliance, and modern cybersecurity practices.
 
-We combine **Security Architecture**, **Cloud Engineering**, **DevSecOps**, and **EU Regulatory Compliance** into one integrated delivery model.  
-Our work turns regulations such as **ISO 27001, NIS2, CRA, SOC 2, GDPR, DORA, and the AI Act** into practical, automated, and measurable technical controls.
+Everything in ThinkWerke is grounded in real-world problem solving. We combine **Security Architecture**, **Cloud Engineering**, **DevSecOps**, and **EU Regulatory Compliance** into one integrated delivery model. Our work turns regulations such as **ISO 27001, NIS2, CRA, SOC 2, GDPR, DORA, and the AI Act** into practical, automated, and measurable technical controls.
 
-We do not deliver presentations alone, we deliver **systems, pipelines, evidence, governance, and capability uplift**.
+We do not deliver presentations alone, we deliver **systems, pipelines, evidence, governance, and capability uplift**. supported by professional certifications including:
+
+**AWS Solutions Architect Professional, CISM, ISO 27001 Lead Implementer, CompTIA SecurityX, NIS2/DORA regulatory expertise, and Cloud Resilience engineering.**
+
+Mission
+-------
+Enable individuals, teams, and regulated enterprises to build secure, compliant, and operationally resilient cloud systems aligned with EU cybersecurity standards and global best practices.
 
 What We Offer
 =============
