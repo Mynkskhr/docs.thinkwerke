@@ -45,16 +45,6 @@ Implementation guides, reference architectures, evidence models, and compliance 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Playbooks & Operating Models
-
-   playbooks-runbooks/index
-   playbooks-runbooks/vulnerability-response
-   playbooks-runbooks/incident-response
-   playbooks-runbooks/access-reviews
-   playbooks-runbooks/change-management
-
-.. toctree::
-   :maxdepth: 2
    :caption: Whitepapers & Research
 
    whitepapers/index
@@ -62,14 +52,4 @@ Implementation guides, reference architectures, evidence models, and compliance 
    whitepapers/cra-practical-implementation
    whitepapers/iso27001-evidence-by-design
    whitepapers/vendor-hosted-responsibility
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Templates & Examples
-
-   templates-examples/index
-   templates-examples/soa-guidance
-   templates-examples/jira-workflows
-   templates-examples/dashboard-metrics
-   templates-examples/policy-as-code
 
