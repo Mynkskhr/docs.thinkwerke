@@ -131,7 +131,7 @@ Controls are enforced through configuration and code.
 ---
 
 DPIA as a Living Artefact
-------------------------
+-------------------------
 
 Data Protection Impact Assessments (DPIAs) are treated as:
 
