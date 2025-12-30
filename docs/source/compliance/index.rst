@@ -71,7 +71,7 @@ Frameworks Covered
 
 This documentation covers the following major frameworks and regulations:
 
-- ISO/IEC 27001
+- ISO 27001
 - NIS2 Directive
 - Cyber Resilience Act (CRA)
 - GDPR
