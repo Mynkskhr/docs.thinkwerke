@@ -52,7 +52,7 @@ It must be **implemented in pipelines, workflows, and platforms**.
 ---
 
 Core Engineering Domains
------------------------
+------------------------
 
 ### Secure Software Lifecycle (SSLM)
 
