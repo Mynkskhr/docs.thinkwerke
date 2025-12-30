@@ -21,7 +21,7 @@ It is an **implementation and evidence mapping reference**.
 ---
 
 Scope of ISO/IEC 27001
----------------------
+----------------------
 
 ISO/IEC 27001 defines requirements for establishing, implementing,
 maintaining, and continually improving an **Information Security Management
