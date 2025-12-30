@@ -1,4 +1,4 @@
-Vendor-Hosted Responsibility 
+Vendor-Hosted Responsibility
 Clarifying Ownership in Cloud & Managed Environments
 ====================================================
 
