@@ -1,6 +1,7 @@
 Vendor-Hosted Responsibility
+============================
 Clarifying Ownership in Cloud & Managed Environments
-====================================================
+----------------------------------------------------
 
 From Assumed Trust to Defensible Accountability
 -----------------------------------------------
