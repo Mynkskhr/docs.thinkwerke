@@ -157,7 +157,7 @@ Continually improve the ISMS.
 ---
 
 Annex A Controls in Cloud Environments
--------------------------------------
+--------------------------------------
 
 Annex A controls must be adapted to modern architectures.
 
