@@ -1,160 +1,254 @@
-ISO 27001: Practical Implementation
-===================================
+ISO/IEC 27001: Compliance Mapping
+=================================
 
 Purpose
 -------
 
-This document explains how Thinkwerke interprets and implements
-**ISO 27001** for modern, cloud-native and product-centric organisations.
+This document explains how **ISO/IEC 27001 requirements** are translated into
+**practical technical controls, operating processes, and audit-ready evidence**
+within modern cloud and software environments.
 
-The focus is on **making ISO 27001 executable** across platforms, pipelines,
-and operating models — not on producing documentation for its own sake.
+It is written for:
+
+- Security and cloud architects
+- Engineering leaders
+- Assurance and audit teams
+- Internal ISO 27001 programme owners
+
+This is not a certification guide.
+It is an **implementation and evidence mapping reference**.
 
 ---
 
-What ISO 27001 Actually Requires
---------------------------------
+Scope of ISO/IEC 27001
+---------------------
+
+ISO/IEC 27001 defines requirements for establishing, implementing,
+maintaining, and continually improving an **Information Security Management
+System (ISMS)**.
+
+In practice, ISO 27001 requires organisations to demonstrate:
+
+- Risk-based decision making
+- Control implementation
+- Operational effectiveness
+- Continuous improvement
+- Management oversight
+
+Compliance must be **provable**, not assumed.
+
+---
+
+Mapping Approach
+----------------
+
+ISO 27001 requirements are mapped using the following structure:
+
+1. **Clause / Control Objective**
+2. **Risk Addressed**
+3. **Technical and Organisational Controls**
+4. **Operational Ownership**
+5. **Evidence Produced**
+
+This structure allows reuse of controls across:
+
+- ISO 27001 surveillance audits
+- Customer security assessments
+- Tender responses
+- Regulatory reviews
+
+---
+
+ISMS as an Operating Model
+--------------------------
+
+An effective ISMS is not a document repository.
+
+It is an operating model that connects:
+
+- Governance
+- Engineering
+- Operations
+- Assurance
+
+Key characteristics of a functional ISMS include:
+
+- Defined ownership
+- Embedded controls
+- Measurable effectiveness
+- Continuous evidence
+
+---
+
+Clause-to-Control Mapping (Examples)
+------------------------------------
+
+### Clause 6 – Planning (Risk Management)
+
+**Objective**
+Identify, analyse, and treat information security risks.
+
+**Implementation Examples**
+- Centralised risk register
+- Risk acceptance workflows
+- Control selection based on risk
+- Management approval tracking
+
+**Evidence**
+- Risk assessment records
+- Treatment decisions
+- Approval artefacts
+- Review timestamps
+
+---
+
+### Clause 8 – Operation
+
+**Objective**
+Ensure controls are implemented and operated as planned.
+
+**Implementation Examples**
+- CI/CD-enforced change management
+- Infrastructure-as-code deployments
+- Automated security checks
+- Operational runbooks
+
+**Evidence**
+- Deployment logs
+- Pipeline approvals
+- Change tickets
+- Monitoring outputs
+
+---
+
+### Clause 9 – Performance Evaluation
+
+**Objective**
+Monitor, measure, analyse, and evaluate ISMS performance.
+
+**Implementation Examples**
+- Security metrics dashboards
+- Vulnerability trends
+- Incident metrics
+- Control effectiveness indicators
+
+**Evidence**
+- Dashboard exports
+- KPI reports
+- Review meeting records
+
+---
+
+### Clause 10 – Improvement
+
+**Objective**
+Continually improve the ISMS.
+
+**Implementation Examples**
+- Incident post-mortems
+- Nonconformity tracking
+- Corrective action workflows
+
+**Evidence**
+- Root cause analyses
+- Remediation tickets
+- Closure verification
+
+---
+
+Annex A Controls in Cloud Environments
+-------------------------------------
+
+Annex A controls must be adapted to modern architectures.
+
+Typical mappings include:
+
+- Access control → IAM policies and reviews
+- Logging → centralised log pipelines
+- Asset management → cloud inventories
+- Supplier management → vendor assurance reviews
+- Incident response → ticketed workflows
+
+Controls must be **implemented in systems**, not only described.
+
+---
+
+Vendor-Hosted & Shared Responsibility
+-------------------------------------
+
+In cloud and managed environments:
+
+- Some controls are inherited
+- Some are shared
+- Some remain customer-owned
 
 ISO 27001 requires organisations to:
 
-- Establish governance and accountability
-- Identify and manage information security risks
-- Implement appropriate controls
-- Monitor effectiveness
-- Produce evidence on demand
+- Retain accountability
+- Validate inherited controls
+- Document responsibility boundaries
+- Provide internal evidence for owned controls
 
-It does **not** prescribe tools, architectures, or processes.
-Those decisions must align with how the organisation actually operates.
+Vendor certifications alone are not sufficient.
 
 ---
 
-Common Failure Patterns
------------------------
+Evidence Expectations
+---------------------
 
-In cloud environments, ISO 27001 initiatives often fail due to:
+Auditors typically expect evidence that is:
 
-- Controls defined only at policy level
-- Technical controls implemented inconsistently
-- No ownership model across engineering and security
-- Evidence collected manually during audits
-- Audit panic and delivery disruption
+- Objective
+- Traceable
+- Consistent
+- Reproducible
 
-Thinkwerke addresses these issues at design time.
+Preferred evidence sources include:
 
----
-
-Thinkwerke Interpretation Model
--------------------------------
-
-ISO 27001 is implemented through four connected layers:
-
-1. Governance and ownership
-2. Technical control implementation
-3. Operational workflows
-4. Continuous evidence generation
-
-Each layer must reinforce the others.
-
----
-
-Statement of Applicability (SoA)
---------------------------------
-
-The SoA is treated as a **control register**, not a document.
-
-Thinkwerke ensures the SoA:
-
-- Maps controls to real systems
-- Identifies technical owners
-- References implementation locations
-- Points to live evidence sources
-
-This makes the SoA defensible and usable during audits.
-
----
-
-Technical Control Implementation
---------------------------------
-
-Controls are implemented across:
-
-- Cloud identity and access management
-- Network and platform configurations
-- CI/CD pipelines
-- Vulnerability and incident workflows
-- Logging and monitoring systems
-
-Where possible, controls are enforced automatically.
-
----
-
-Evidence by Design
-------------------
-
-Evidence is generated continuously through:
-
-- Pipeline execution logs
+- System-generated artefacts
 - Configuration states
-- Approval workflows
-- Security event handling
-- Change management records
+- Access reviews
+- Logs and alerts
+- Ticketing system records
 
-Audits become verification exercises, not discovery exercises.
-
----
-
-Operational Integration
------------------------
-
-ISO 27001 controls are embedded into:
-
-- Secure software lifecycle processes
-- Vulnerability management workflows
-- Incident response procedures
-- Change and release management
-
-This prevents ISO 27001 from becoming an external compliance burden.
+Manual screenshots should be the exception, not the rule.
 
 ---
 
-Audit Readiness
----------------
-
-With this approach, organisations can:
-
-- Respond to audits without scrambling
-- Demonstrate control effectiveness live
-- Answer auditor questions with system evidence
-- Reduce audit duration and friction
-
-Audits no longer interrupt delivery.
-
----
-
-Relationship to Other Regulations
+Common ISO 27001 Failure Patterns
 ---------------------------------
 
-ISO 27001 forms the backbone for:
+Common issues identified during audits include:
 
-- NIS2 operational controls
-- CRA product security expectations
-- Customer security assessments
-- SOC 2-style assurance
+- Policies not reflected in implementation
+- Undefined control ownership
+- Inconsistent evidence
+- One-time risk assessments
+- Last-minute evidence collection
 
-This document should be read alongside:
+These issues indicate process gaps, not audit problems.
 
-- :doc:`nis2`
-- :doc:`cra`
-- :doc:`crosswalks`
+---
+
+Relationship to Other Documentation
+-----------------------------------
+
+This mapping is supported by:
+
+- :doc:`/whitepapers/iso27001-evidence-by-design`
+- :doc:`/solutions/cloud-security-foundations`
+- :doc:`/solutions/secure-software-lifecycle`
+- :doc:`/evidence-library/control-to-proof`
 
 ---
 
 Key Takeaway
 ------------
 
-ISO 27001 succeeds when it is treated as
-an **engineering and operating discipline**.
+ISO/IEC 27001 compliance is strongest when:
 
-When controls are implemented where work happens,
-compliance becomes sustainable, auditable, and scalable.
+- controls are embedded into systems
+- ownership is explicit
+- evidence is produced continuously
 
+An ISMS succeeds when it operates **by design, not by exception**.
